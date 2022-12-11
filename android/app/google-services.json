@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "900984774257",
+    "project_id": "socialapp-fb160",
+    "storage_bucket": "socialapp-fb160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900984774257:android:30e8ac6cf4b74798cbc5d0",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900984774257-9ajecjddapcad5fltbnsajj74vk11doq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvR_4U1TR3eNUlpsjEUZ-YFssCwPvirDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900984774257-9ajecjddapcad5fltbnsajj74vk11doq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900984774257-1hpqov6j8sp9f15vqilarl07mjbopp5v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialfirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900984774257:android:8103a4c71502dcf5cbc5d0",
+        "android_client_info": {
+          "package_name": "com.example.socialfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900984774257-9ajecjddapcad5fltbnsajj74vk11doq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvR_4U1TR3eNUlpsjEUZ-YFssCwPvirDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900984774257-9ajecjddapcad5fltbnsajj74vk11doq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900984774257-1hpqov6j8sp9f15vqilarl07mjbopp5v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialfirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
